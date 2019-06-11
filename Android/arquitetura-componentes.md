@@ -27,7 +27,7 @@ Representa o evento do ciclo de vida que é chamado quando acontece uma alteraç
 
 Servem para indicar o ponto em que o _LifecycleOwner_ se encontra no ciclo de vida. Sempre que ocorre um evento há também uma mudança de estado.
 
-![diagrama de mudanças de estado](/home/ingrid/Documentos/Estudos/Android/diagrama-estados.png
+![diagrama de mudanças de estado](/home/ingrid/Documentos/Estudos/Android/diagrama-estados.png)
 
 Existem 5 estados:
 
