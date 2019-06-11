@@ -26,7 +26,7 @@ Uma aplicação Android em quatro tipos de classes principais, onde cada um dess
 
 ## Estrutura da Aplicação Android
 
-![estrutura de um projeto](/home/ingrid/Documentos/Estudos/Android/estrutura.png)
+![estrutura de um projeto](/Estudos/Android/estrutura.png)
 
 - __Android Manifest__ é um arquivo XML que é a raiz do conjunto de fontes do projeto. Responsável por descrever as informações essenciais sobre o aplicativo e as ferramentas de criação do Android, o sistema operacional Android, e o Google Play. Nele estão as permissões que um aplicativo pode precisar para executar determinada tarefa. Nele também contém os recursos de hardware e software do aplicativo, o que determina a compatibilidade de um aplicativo na Play Store. Inclui também as atividades especiais como serviços, receptor de broadcast, provedores de conteúdo, nome do pacote, etc.
 - __Java__ é a pasta onde consistem os arquivos java necessários para executar a tarefa em segundo plano do aplicativo. Ou seja, é onde estão implementadas as funcionalidades dos botões, cálculo, armazenamento, variáveis, tosts (pequenas mensagens popup), etc.
@@ -35,7 +35,7 @@ Uma aplicação Android em quatro tipos de classes principais, onde cada um dess
 
 ## Arquitetura do Android
 
-![arquitetura do android](/home/ingrid/Documentos/Estudos/Android/plataforma-android.png)
+![arquitetura do android](/Estudos/Android/plataforma-android.png)
 
 - __Aplicativos:__ são os aplicativos e jogos desenvolvidos utilizando a linguagem _Java_.
 - __Frameworks, Serviços e Bibliotecas:__ essa camada fornece muitos serviços de nível superior para aplicativos na forma de classes Java. A estrutura do Android inclui os seguintes serviços principais:
