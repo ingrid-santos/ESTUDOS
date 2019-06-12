@@ -2,4 +2,5 @@
 
 Material de estudos diversos:
 
-- Android 
+- Android
+- GIT
