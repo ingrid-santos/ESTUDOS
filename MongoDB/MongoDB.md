@@ -1,4 +1,4 @@
-# MongoDB 
+# MongoDB
 
 - NoSQL Database
 - Written in C++
