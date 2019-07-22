@@ -1,4 +1,4 @@
-# Android Architecture Components
+# Arquitetura de Componentes Android
 
 O Android Architecture Componentes é uma coleção de bibliotecas que ajudam a desenvolver aplicações robustas, testáveis e sustentáveis. Ou seja, essa biblioteca busca ajudar a gerir o ciclo de vida das UIs e gerir melhor a persistência de dados mesmo com as alterações no _Lifecycle_ da aplicação. Os componentes nessa biblioteca são:
 
